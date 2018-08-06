@@ -5,8 +5,8 @@
   },
   "dependencies": {
     "node-windows": "0.1.x",
-    "optimist": "0.6.x",
-    "prompt": "0.2.x"
+    "prompt": "0.2.x",
+    "yargs": "^12.0.1"
   },
   "directories": {
     "asset": "./asset",
@@ -14,7 +14,9 @@
   },
   "description": "easiest way to install a node.js script as a windows service",
   "name": "qckwinsvc",
-  "os": [ "win32" ],
+  "os": [
+    "win32"
+  ],
   "preferGlobal": true,
   "repository": {
     "type": "git",
@@ -22,4 +24,3 @@
   },
   "version": "1.0.0"
 }
-

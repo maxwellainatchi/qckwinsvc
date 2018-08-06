@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-var cli     = require('optimist')
+var cli     = require('yargs')
   , prompt  = require('prompt')
   , Service = require('node-windows').Service
 
