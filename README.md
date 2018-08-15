@@ -1,10 +1,7 @@
 # ![logo](asset/logo/32.png) Quick Windows Service
 
-[![dependencies](https://david-dm.org/tallesl/qckwinsvc.png)](https://david-dm.org/tallesl/qckwinsvc)
-[![devDependencies](https://david-dm.org/tallesl/qckwinsvc/dev-status.png)](https://david-dm.org/tallesl/qckwinsvc#info=devDependencies)
-[![npm module](https://badge.fury.io/js/qckwinsvc.png)](http://badge.fury.io/js/qckwinsvc)
-
-[![npm](https://nodei.co/npm/qckwinsvc.png?mini=true)](https://nodei.co/npm/qckwinsvc/)
+[![dependencies](https://david-dm.org/maxwellainatchi/qckwinsvc.png)](https://david-dm.org/maxwellainatchi/qckwinsvc)
+[![devDependencies](https://david-dm.org/maxwellainatchi/qckwinsvc/dev-status.png)](https://david-dm.org/maxwellainatchi/qckwinsvc#info=devDependencies)
 
 CLI utility that installs/uninstalls a windows service.
 
